@@ -1,5 +1,5 @@
-<img width="900" height="1180" alt="flowchart" src="https://github.com/user-attachments/assets/9f599b66-2105-4f6d-9b09-a3f45037da7f" /># Smart India Hackathon Workshop
-# Date:23/11/2026
+## Smart India Hackathon Workshop
+## Date:23/11/2026
 ## Reference Number:26018758
 ## Name:Thamana G
 
